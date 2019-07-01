@@ -16,7 +16,7 @@ $html = '<!DOCTYPE html>
 while ($a=$get->fetch_assoc()){
 	$html.='<center><h3>'.$a ['topik'] .'</h3></center>
 	<center><img src="../../../function/user/images/'. $a['gambar'].'" width="1080px" height="720px" alt=""></center>
-	<h5><center> '. $a ['tanggal'].'</center></h5>
+	<h5 style="text-align:center;">><center> '. $a ['tanggal'].'</center></h5>
 	<p>'. $a ['deskripsi'].'</p>';
 }
 $html.='</body>
