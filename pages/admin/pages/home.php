@@ -12,7 +12,7 @@
           <div class="col-md-12">
             <div class="content-panel">
               <table class="table table-striped table-advance table-hover">
-                <h4><i class="fa fa-angle-right"></i><a href="?p=pdf"> CETAK</h4></a>
+                <h4><i class="fa fa-angle-right"></i><a href="pages/pdf.php"> CETAK</h4></a>
                 <hr>
                 <thead>
                   <tr>
