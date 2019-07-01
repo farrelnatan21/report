@@ -4,7 +4,7 @@ include '../../config/koneksi.php';
 $id_user = $_POST['id_user'];
 $nama = $_POST['nama'];
 $topik = $_POST['topik'];
-$tanggal = date("Y-m-d H:i:s");
+$tanggal = $_POST['tanggal'];
 $gambar = $_FILES['gambar']['name'];
 $keterangan = $_POST['keterangan'];
 $deskripsi = $_POST['deskripsi'];

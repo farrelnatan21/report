@@ -19,6 +19,10 @@
       <option value="Control Exo Skeleton">Control Exo Skeleton</option>
     </select>
   </div>
+  <div class="form-group">
+    <label for="keterangan">keterangan gambar</label>
+    <input type="text" class="form-control" id="keterangan" placeholder="masukan keterangan gambar" name="keterangan" require>
+  </div>
 
   <div class="form-group">
     <label for="Gambar">Gambar</label>
@@ -28,11 +32,7 @@
 		                                        	<label for="example-date-input" class="control-label">Tanggal Beli</label>
 		                                            <input class="form-control" type="date" name="tanggal" value="2011-08-19" id="example-date-input">
                                             </div>
-                                            <div class="form-group">
-    <label for="keterangan">keterangan gambar</label>
-    <input type="text" class="form-control" id="keterangan" placeholder="masukan keterangan gambar" name="keterangan" require>
-  </div>
-
+                                            
   <div class="form-group">
     <label for="Alamat">Deskripsi</label>
     <textarea class="form-control" id="alamat" placeholder="Alamat" name="deskripsi" required></textarea>

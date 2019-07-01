@@ -20,6 +20,11 @@
     <input type="file" class="form-control" id="gambar" name="gambar" required>
   </div>
   <div class="form-group">
+    <label for="keterangan">keterangan gambar</label>
+    <input type="text" class="form-control" id="keterangan" placeholder="masukan keterangan gambar" name="keterangan" require>
+  </div>
+
+  <div class="form-group">
 		                                        	<label for="example-date-input" class="control-label">Date</label>
 		                                            <input class="form-control" type="date" name="tanggal"  id="example-date-input">
 		                                        </div>
