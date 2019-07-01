@@ -30,7 +30,7 @@
                                             </div>
                                             <div class="form-group">
     <label for="NIM">keterangan gambar</label>
-    <input type="text" class="form-control" id="nim" placeholder="Nomor Indux Mahasiswa" name="keterangan" require>
+    <input type="text" class="form-control" id="nim" placeholder="masukan keterangan gambar" name="keterangan" require>
   </div>
 
   <div class="form-group">

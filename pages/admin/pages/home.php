@@ -39,6 +39,7 @@
                     <td><?php echo $m['topik']; ?></td>
                     <td><?php echo $m['tanggal']; ?></td>
                     <td><img src="../../function/user/images/<?php echo $m['gambar'];?>" height="50"></td>
+                    <td><?php echo $m['keterangan']; ?></td>
                     <td><?php echo $m['deskripsi']; ?></td>
                     <td>
                       <button class="btn btn-success btn-xs"><i class="fa fa-check"></i></button>
