@@ -3,7 +3,7 @@
 
   <div class="form-group">
     <label for="NIM">Nama Mahasiswa</label>
-    <input type="text" class="form-control" id="nim" placeholder="Nomor Indux Mahasiswa" name="nama" value="<?php echo $_SESSION ['username']; ?>"disabled>
+    <input type="text" class="form-control" id="nim" placeholder="Nomor Indux Mahasiswa" name="nama" value="<?php echo $_SESSION ['username']; ?>">
   </div>
 
   <div class="form-group">
