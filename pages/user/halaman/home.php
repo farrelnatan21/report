@@ -29,8 +29,8 @@
 		                                            <input class="form-control" type="date" name="tanggal" value="2011-08-19" id="example-date-input">
                                             </div>
                                             <div class="form-group">
-    <label for="NIM">keterangan gambar</label>
-    <input type="text" class="form-control" id="nim" placeholder="masukan keterangan gambar" name="keterangan" require>
+    <label for="keterangan">keterangan gambar</label>
+    <input type="text" class="form-control" id="keterangan" placeholder="masukan keterangan gambar" name="keterangan" require>
   </div>
 
   <div class="form-group">
